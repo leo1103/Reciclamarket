@@ -1,31 +1,22 @@
 # Reciclamarket
 
+## Description
+
+ReciclaMarket is a mobile application that focuses on promoting and developing recycling in Bolivia by connecting people who have recyclables with people who make a living collecting recyclables and take them to recycling centers/ The application will also offer a virtual market to 
+sell crafts made with recycled material. The app will have a discount/gift point system for those who use the app.
+
+## Sponsorship
+
+App sponsored by the United States Embassy in La Paz, Bolivia, under the contract awarded to our team "Red Army" winner of the 1st place at the Sustainable Entrepreneurship Hackaton.
+
 ## Privacy Policy
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Relics Under Siege: Tower Defense unless otherwise defined in this Privacy Policy.
-
-### Information Collection and Use
-
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to Admob id. The information that we request will be retained by us and used as described in this privacy policy.
-
-The app does use third party services that may collect information used to identify you.
-
-Link to privacy policy of third party service providers used by the app
-
-AdMob
-
 ### Log Data
 
 We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
-
-### Cookies
-
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
-
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
 ### Service Providers
 
